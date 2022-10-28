@@ -1,6 +1,6 @@
 <h1 align="center">Hola 👋 , Soy Yechua Silva</h1><h3 align="center">Cloud Practitioner y Desarrollador Front-end</h3>- 🌱 Actualmente estoy aprendiendo **AWS re/Start y PHP**
 
-<h3 align="left">Contactame en:</h3>
+<h3 align="left">Contacta conmigo en:</h3>
 
 
 
