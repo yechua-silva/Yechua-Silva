@@ -1,12 +1,54 @@
-<h1 align="center">Hola 👋 , Soy Yechua Silva</h1><h3 align="center">Cloud Practitioner y Desarrollador Front-end</h3>- 🌱 Actualmente estoy aprendiendo **AWS re/Start y PHP**
+# Yechua Silva - Desarrollador Full Stack
 
-<h3 align="left">Contacta conmigo en:</h3>
+¡Hola! Soy Yechua Silva, un apasionado desarrollador web en busca de emocionantes oportunidades laborales como desarrollador Full Stack. Mi enfoque principal está en el desarrollo web utilizando JavaScript y tengo experiencia en diversos proyectos personales. Estoy constantemente buscando mejorar mis habilidades y conocimientos en el campo.
 
+## Habilidades y Tecnologías
 
+- Lenguajes de Programación: JavaScript, Python
+- Frontend: HTML, CSS
+- Backend: MySQL
+- Control de Versiones: Git, GitHub
+- Metodologías: Scrum
+- Sistemas Operativos: GNU/Linux
+- Cloud Computing: Experiencia en el entorno de AWS
 
-<p align="left">
-<a href="https://linkedin.com/in/yechua-silva" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yechua-silva" height="30" width="40" /></a></p><h3 align="left">Lenguajes y herramientas:</h3>
+## Proyectos Destacados
 
+- [Carrito de compras](https://github.com/yechua-silva/Poyecto-carrito-compras): En el proyecto del curso, se implementó la funcionalidad de agregar productos al carrito, eliminar elementos individuales, vaciar completamente el carrito y contar la cantidad de cursos repetidos.
+- [Presupuesto semanal](https://github.com/yechua-silva/Proyecto-Administracion-presupuesto): Es una proyecto con JavaScript que ayuda a los usuarios a administrar su presupuesto semanal. Permite ingresar ingresos y gastos, calcula el saldo restante y presenta una interfaz intuitiva y amigable. Se utilizó programación orientada a objetos con clases de JavaScript para una estructura modular.
 
+## Experiencia con Frameworks
 
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_ blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+Estoy actualmente aprendiendo React y emocionado por aplicar mis conocimientos en futuros proyectos.
+
+## Bases de Datos
+
+Tengo experiencia trabajando con bases de datos de AWS, como MySQL y PostgreSQL.
+
+## Control de Versiones
+
+He utilizado Git y GitHub en todos mis proyectos anteriores y actualmente estoy obteniendo una certificación en Git y GitHub por parte de Microsolft para mejorar mis habilidades en herramientas de desarrollo.
+
+## Desarrollo Responsivo
+
+Todos mis proyectos están diseñados y desarrollados de manera que sean responsivos y se adapten a diferentes dispositivos.
+
+## Trabajo en Equipo
+
+He colaborado en proyectos independientes y he adquirido habilidades de trabajo en equipo durante mi experiencia.
+
+## Certificaciones
+
+- AWS Certified Cloud Practitioner
+
+## Intereses y Motivación
+
+Soy un desarrollador autodidacta y mi motivación proviene de crear soluciones tangibles que puedan ayudar a las personas. Estoy interesado en abordar proyectos relacionados con la salud y el medio ambiente, aunque estoy abierto a cualquier tipo de proyecto emocionante.
+
+## Habilidades Adicionales
+
+Además de mis habilidades en desarrollo web, también tengo experiencia en los servicios principales de AWS y soy muy creativo en la resolución de problemas.
+
+¡Gracias por visitar mi perfil! Si tienes alguna pregunta o te gustaría colaborar en un proyecto, no dudes en contactarme.
+
+¡Buena suerte en tu búsqueda de empleo como desarrollador web!
