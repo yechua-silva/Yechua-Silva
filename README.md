@@ -6,7 +6,7 @@
 
 - Lenguajes de Programación: JavaScript, Python, C
 - Frontend: HTML, CSS
-- Backend: MySQL
+- Backend: MySQL. MongoDB
 - Control de Versiones: Git, GitHub
 - Metodologías: Scrum
 - Sistemas Operativos: GNU/Linux
