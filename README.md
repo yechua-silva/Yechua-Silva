@@ -4,7 +4,7 @@
 
 ## Habilidades y Tecnologías
 
-- Lenguajes de Programación: JavaScript, Python
+- Lenguajes de Programación: JavaScript, Python, C
 - Frontend: HTML, CSS
 - Backend: MySQL
 - Control de Versiones: Git, GitHub
@@ -21,10 +21,6 @@
 
 Estoy actualmente aprendiendo React y emocionado por aplicar mis conocimientos en futuros proyectos.
 
-## Bases de Datos
-
-Tengo experiencia trabajando con bases de datos de AWS, como MySQL y PostgreSQL.
-
 ## Control de Versiones
 
 He utilizado Git y GitHub en todos mis proyectos anteriores y actualmente estoy obteniendo una certificación en Git y GitHub por parte de Microsolft para mejorar mis habilidades en herramientas de desarrollo.
@@ -32,10 +28,6 @@ He utilizado Git y GitHub en todos mis proyectos anteriores y actualmente estoy 
 ## Desarrollo Responsivo
 
 Todos mis proyectos están diseñados y desarrollados de manera que sean responsivos y se adapten a diferentes dispositivos.
-
-## Trabajo en Equipo
-
-He colaborado en proyectos independientes y he adquirido habilidades de trabajo en equipo durante mi experiencia.
 
 ## Certificaciones
 
@@ -51,4 +43,3 @@ Además de mis habilidades en desarrollo web, también tengo experiencia en los 
 
 ¡Gracias por visitar mi perfil! Si tienes alguna pregunta o te gustaría colaborar en un proyecto, no dudes en contactarme.
 
-¡Buena suerte en tu búsqueda de empleo como desarrollador web!
