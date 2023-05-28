@@ -17,10 +17,6 @@
 - [Carrito de compras](https://github.com/yechua-silva/Poyecto-carrito-compras): En el proyecto del curso, se implementó la funcionalidad de agregar productos al carrito, eliminar elementos individuales, vaciar completamente el carrito y contar la cantidad de cursos repetidos.
 - [Presupuesto semanal](https://github.com/yechua-silva/Proyecto-Administracion-presupuesto): Es una proyecto con JavaScript que ayuda a los usuarios a administrar su presupuesto semanal. Permite ingresar ingresos y gastos, calcula el saldo restante y presenta una interfaz intuitiva y amigable. Se utilizó programación orientada a objetos con clases de JavaScript para una estructura modular.
 
-## Experiencia con Frameworks
-
-Estoy actualmente aprendiendo React y emocionado por aplicar mis conocimientos en futuros proyectos.
-
 ## Control de Versiones
 
 He utilizado Git y GitHub en todos mis proyectos anteriores y actualmente estoy obteniendo una certificación en Git y GitHub por parte de Microsolft para mejorar mis habilidades en herramientas de desarrollo.
