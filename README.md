@@ -10,10 +10,10 @@
 - Control de Versiones: Git, GitHub
 - Metodologías: Scrum
 - Sistemas Operativos: GNU/Linux
-- Cloud Computing: Experiencia en el entorno de AWS
+- Cloud Computing: Certificado en AWS
 
 ## Proyectos Destacados
-
+- [Administrador de pacientes](https://yechua-silva.github.io/Proyecto-Administrador-citas-pacientes/): El administrador de citas de pacientes es una herramienta que permite a los usuarios agregar y editar citas para sus pacientes de cuatro patas. Los usuarios pueden programar citas y registrar detalles como la fecha, hora, nombre del paciente y razón de la consulta. Además, tienen la capacidad de actualizar la información de las citas existentes, como cambios en la hora o motivo de la consulta.
 - [Carrito de compras](https://github.com/yechua-silva/Poyecto-carrito-compras): En el proyecto del curso, se implementó la funcionalidad de agregar productos al carrito, eliminar elementos individuales, vaciar completamente el carrito y contar la cantidad de cursos repetidos.
 - [Presupuesto semanal](https://github.com/yechua-silva/Proyecto-Administracion-presupuesto): Es una proyecto con JavaScript que ayuda a los usuarios a administrar su presupuesto semanal. Permite ingresar ingresos y gastos, calcula el saldo restante y presenta una interfaz intuitiva y amigable. Se utilizó programación orientada a objetos con clases de JavaScript para una estructura modular.
 
