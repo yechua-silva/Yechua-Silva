@@ -5,8 +5,8 @@
 ## Habilidades y Tecnologías
 
 - Lenguajes de Programación: JavaScript, Python, C
-- Frontend: HTML, CSS
-- Backend: MySQL, MongoDB
+- Desarrollo web: HTML, CSS, React, NodeJS
+- Backend: MySQL, MongoDB, PostgreSQL
 - Control de Versiones: Git, GitHub
 - Metodologías: Scrum
 - Sistemas Operativos: GNU/Linux
