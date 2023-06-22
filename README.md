@@ -5,11 +5,12 @@
 ## Habilidades y Tecnologías
 
 - Lenguajes de Programación: JavaScript, Python, C
-- Desarrollo web: HTML, CSS, React, NodeJS
+- Desarrollo web: HTML, CSS, React, NodeJS, Sequelize, Express
 - Backend: MySQL, MongoDB, PostgreSQL
 - Control de Versiones: Git, GitHub
 - Metodologías: Scrum
 - Sistemas Operativos: GNU/Linux
+- Testing: Jest, Cypress
 - Cloud Computing: Certificado en AWS
 
 ## Proyectos Destacados
