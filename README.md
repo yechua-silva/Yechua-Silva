@@ -19,7 +19,7 @@
 - [Administrador de Pacientes](https://github.com/yechua-silva/Proyecto-Administrador-citas-pacientes): El administrador de citas de pacientes es una herramienta que permite a los usuarios agregar y editar citas para sus pacientes de cuatro patas. Los usuarios pueden programar citas y registrar detalles como la fecha, hora, nombre del paciente y razón de la consulta. Además, tienen la capacidad de actualizar la información de las citas existentes, como cambios en la hora o motivo de la consulta.
 - [Calculadora de Propinas](https://github.com/yechua-silva/Proyecto-Calculadora-propinas/): Este proyecto es una aplicación que combina una calculadora de propinas, reserva de hora con mesa y muestra de platillos desde una API creada con json-server, utilizando funciones asincrónicas para consultas eficientes.
 - [Presupuesto Semanal](https://github.com/yechua-silva/Proyecto-Administracion-presupuesto): Es una proyecto con JavaScript que ayuda a los usuarios a administrar su presupuesto semanal. Permite ingresar ingresos y gastos, calcula el saldo restante y presenta una interfaz intuitiva y amigable. Se utilizó programación orientada a objetos con clases de JavaScript para una estructura modular.
-- ### React y Vue
+- #### React y Vue
   Usuarios eligen rango préstamo y duración en meses. Sistema calcula total a pagar y pago mensual. Intereses menores con más dinero y plazo corto. Decisiones financieras informadas:
   - [Cotizador Prestamos React](https://github.com/yechua-silva/proyecto-cotizador-prestamos-react)
   - [Cotizador Prestamos Vue](https://github.com/yechua-silva/proyecto-cotizador-prestamos-vue)
