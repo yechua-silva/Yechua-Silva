@@ -26,10 +26,6 @@
   - [Cotizador Prestamos Vue](https://github.com/yechua-silva/proyecto-cotizador-prestamos-vue)
 
 
-## Control de Versiones
-
-He utilizado Git y GitHub en todos mis proyectos anteriores y actualmente estoy obteniendo una certificación en Git y GitHub por parte de Microsolft para mejorar mis habilidades en herramientas de desarrollo.
-
 ## Desarrollo Responsivo
 
 Todos mis proyectos están diseñados y desarrollados de manera que sean responsivos y se adapten a diferentes dispositivos.
@@ -40,7 +36,7 @@ Todos mis proyectos están diseñados y desarrollados de manera que sean respons
 
 ## Intereses y Motivación
 
-Soy un desarrollador autodidacta y mi motivación proviene de crear soluciones tangibles que puedan ayudar a las personas. Estoy interesado en abordar proyectos relacionados con la salud y el medio ambiente, aunque estoy abierto a cualquier tipo de proyecto emocionante.
+Soy un desarrollador autodidacta y mi motivación proviene de crear soluciones tangibles que puedan ayudar a las personas. 
 
 ## Habilidades Adicionales
 
