@@ -7,7 +7,7 @@
 
 - Lenguajes de Programación: JavaScript, Python, C
 - Desarrollo web: HTML, CSS, React, Vue, NodeJS, Sequelize, Express, Mongoose
-- Backend: MySQL, MongoDB, PostgreSQL
+- Base de datos: MySQL, MongoDB, PostgreSQL
 - Control de Versiones: Git, GitHub
 - Metodologías: Scrum
 - Sistemas Operativos: GNU/Linux
