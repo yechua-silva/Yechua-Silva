@@ -1,7 +1,7 @@
 # Yechua Silva - Desarrollador Full Stack
 ![GIF](./mern-gif-github.gif) 
 
-¡Hola! Soy Yechua Silva, un apasionado desarrollador web en busca de emocionantes oportunidades laborales como desarrollador Full Stack. Mi enfoque principal está en el desarrollo web utilizando JavaScript y tengo experiencia en diversos proyectos personales. Estoy constantemente buscando mejorar mis habilidades y conocimientos en el campo.
+¡Hola! Soy Yechua Silva, un apasionado desarrollador web en busca de emocionantes oportunidades laborales como desarrollador Full Stack. Mi enfoque principal está en el desarrollo web utilizando JavaScript y tengo experiencia en diversos proyectos. Estoy constantemente buscando mejorar mis habilidades y conocimientos en el campo.
 
 ## Habilidades y Tecnologías
 
