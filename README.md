@@ -19,11 +19,10 @@
 - [MERN - APV - Administrador de Pacientes - frontend](https://github.com/yechua-silva/MERN-apv-frontend): Este proyecto es el frontend desarrollado utilizando tecnologías como React, React Router, Axios, Vite y Tailwind CSS. Proporciona una interfaz de usuario interactiva y atractiva para interactuar con el backend del proyecto.
 
 - [Agencia de Viajes](https://github.com/yechua-silva/Proyecto-Agencia-viajes-node): El proyecto combina Node.js, Express.js, HTML con Pug y MySQL con Sequelize para crear una aplicación web completa y dinámica. Con estas tecnologías, se puede construir una interfaz de usuario interactiva, almacenar y recuperar datos de la base de datos y proporcionar una experiencia fluida y eficiente a los usuarios finales.
-- [Calculadora de Propinas](https://github.com/yechua-silva/Proyecto-Calculadora-propinas/): Este proyecto es una aplicación que combina una calculadora de propinas, reserva de hora con mesa y muestra de platillos desde una API creada con json-server, utilizando funciones asincrónicas para consultas eficientes.
-- #### React y Vue
-  Usuarios eligen rango préstamo y duración en meses. Sistema calcula total a pagar y pago mensual. Intereses menores con más dinero y plazo corto. Decisiones financieras informadas:
-  - [Cotizador Prestamos React](https://github.com/yechua-silva/proyecto-cotizador-prestamos-react)
-  - [Cotizador Prestamos Vue](https://github.com/yechua-silva/proyecto-cotizador-prestamos-vue)
+- [Cotizador Prestamos React](https://github.com/yechua-silva/proyecto-cotizador-prestamos-react) |  [Cotizador Prestamos Vue](https://github.com/yechua-silva/proyecto-cotizador-prestamos-vue): Usuarios eligen rango préstamo y duración en meses. Sistema calcula total a pagar y pago mensual. Intereses menores con más dinero y plazo corto. Decisiones financieras informadas
+- [Backend - RestServer](https://github.com/yechua-silva/rest-server-basico) : Proyecto que implementa un restserver basico ( v1.0.0 ), hasta lo mas complejo ( v.6.0.0 ), con Express, y Mongo como tecnologias principales y que interactuan entre si.
+- [Backend - Sockets](https://github.com/yechua-silva/socket-basico): Socket basico que permite la comunicacion enter cliente-servidor en tiempo real. En front envia mensajes a las demas maquinas conectadas al back.
+  
 
 
 ## Desarrollo Responsivo
