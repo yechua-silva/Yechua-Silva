@@ -32,6 +32,12 @@ Todos mis proyectos están diseñados y desarrollados de manera que sean respons
 ## Certificaciones
 
 - AWS Certified Cloud Practitioner
+- Respondive Web Design
+- Escuela de JavaScript 2023
+- Orientacion al Logro
+- Liderazgo personal
+- Trabajo en equipo
+- Compromiso con el aprendizaje
 
 ## Intereses y Motivación
 
