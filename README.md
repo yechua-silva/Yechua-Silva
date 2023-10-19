@@ -6,9 +6,9 @@
 ## Habilidades y Tecnologías
 
 - Lenguajes de Programación: JavaScript, Python, C
-- Desarrollo web: HTML, CSS, React, Vue, NodeJS, Sequelize, Express, Mongoose
+- Desarrollo web: HTML, CSS, React, Vue, NodeJS, Sequelize, Express, Mongoose, Redux, NextJS 13, Tailwind CSS, Bootstrap
 - Base de datos: MySQL, MongoDB, PostgreSQL
-- Control de Versiones: Git, GitHub
+- Control de Versiones: Git, GitHub, GitLab
 - Metodologías: Scrum
 - Sistemas Operativos: GNU/Linux
 - Testing: Jest, Cypress
